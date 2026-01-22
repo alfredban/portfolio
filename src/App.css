@@ -1,5 +1,11 @@
 @import "tailwindcss";
 
+html, body {
+  transform-origin: center center;
+}
+
+
+
 /*animacion- entrada Navbar*/
 .slide-in-top {
 	-webkit-animation: slide-in-top 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
@@ -305,4 +311,12 @@
 
 .fullview .row__item-inner {
   border-radius: 0px;
+}
+
+
+/*animacion- background del AboutMe*/
+.particles-container {
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
