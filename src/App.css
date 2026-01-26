@@ -471,4 +471,10 @@ background: linear-gradient(180deg, rgba(0, 0, 0, 1) 26%, rgba(54, 17, 64, 1) 54
 }
 
 
+.footer-links{
+  background-color: rgba(110, 26, 76, 1);
+  text-align: center;
+}
+
+
 }

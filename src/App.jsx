@@ -4,6 +4,7 @@ import Navbar from './components/Navbar.jsx'
 import Hero from './components/Hero.jsx'
 import AboutMe from './components/AboutMe.jsx'
 import Projects from './components/Projects'
+import Footer from './components/Footer'
 
 
 function App() {
@@ -28,7 +29,7 @@ function App() {
     </section>
 
     <footer>
-      que cosas usamos
+      <Footer/>
     </footer>
 
     </>

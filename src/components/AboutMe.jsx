@@ -30,7 +30,6 @@ export default function AboutMe() {
 
         <div className=' h-150 flex items-center' id="Sobre mi">
             
-            {/* className='line-height: 1.6 scale-in-center h-90 ml-40 w-200 flex bg-[#e8e8e8]  border text-center items-center text-2xl text-[#1A1A1A] rounded-3xl shadow-[inset_0_4px_12px_rgba(0,0,0,0.4)] px-8' */}
             <div className='sobre-mi-card' 
             style={{ fontFamily: '"Raleway", system-ui' }}> 
                 <span>

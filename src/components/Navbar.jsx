@@ -16,7 +16,6 @@ style={{ fontFamily: '"Raleway", system-ui' }}>
 
         <li className="transition-transform duration-300 hover:scale-130"><a href='#Sobre mi'>Sobre mi</a></li>
         <li className="transition-transform duration-300 hover:scale-130"><a href='#Proyectos'>Proyectos</a></li>
-        <li className="transition-transform duration-300 hover:scale-130"><a>Contacto</a></li>
 
       </ul>
 
